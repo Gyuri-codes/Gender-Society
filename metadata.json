@@ -1,0 +1,6 @@
+{
+  "name": "Gender & Society - Laws Supporting Sexuality and Gender",
+  "description": "An interactive presentation website on Philippine laws supporting sexuality and gender, featuring curated exhibits, chronological timeline, taxonomy dial, comparative legal matrix, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
