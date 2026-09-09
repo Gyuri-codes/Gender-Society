@@ -279,6 +279,7 @@ export const LAWS: Law[] = [
     purpose: 'Increase maternity benefits for women workers',
     beneficiaries: 'Women workers giving birth',
     support: 'Longer paid maternity leave at full salary',
+    image: '/laws/ra7322.jpg',
     vector: 'bridge',
     concepts: ['Health', 'Protection', 'Opportunity'],
     keyProvisions: [
@@ -391,6 +392,7 @@ export const LAWS: Law[] = [
     purpose: "Ensure women's representation in social security governance",
     beneficiaries: 'Women in the social security system',
     support: "Women's seats in the SSS governing commission",
+    image: '/laws/ra7688.jpg',
     vector: 'commission',
     concepts: ['Equality', 'Empowerment', 'Inclusion'],
     keyProvisions: [
