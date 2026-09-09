@@ -76,11 +76,8 @@ function aistudioMediaPlugin(): Plugin {
   };
 }
 
-export default defineConfig(({ command }) => ({
-  base:
-    command === 'build'
-      ? '/Gender-Society/'
-      : '/',
+export default defineConfig(() => ({
+  base: '/Gender-Society/',
 
   plugins: [
     react(),
